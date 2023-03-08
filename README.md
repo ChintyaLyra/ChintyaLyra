@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center"> 
-  Hi there! My name is Chintya Lyra Hartanto 👋
+  Hi there! I'm Chintya Lyra Hartanto 👋
 </h1><br />
 
 <p align="center"> 
