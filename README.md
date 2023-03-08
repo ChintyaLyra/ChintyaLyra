@@ -40,9 +40,7 @@
 | ------------- | ------------- |
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChintyaLyra&" alt="ChintyaLyra" /></p>
 
-
-<img src="https://monophy.com/media/Yohszi4fc3JCezsF4Z/monophy.gif" alt="banner" width="1000" height="100"/> </a></p>
-</p>
+---
 
 <!--
 **ChintyaLyra/ChintyaLyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
